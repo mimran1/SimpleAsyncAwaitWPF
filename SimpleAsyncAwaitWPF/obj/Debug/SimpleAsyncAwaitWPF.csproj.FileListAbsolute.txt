@@ -1,0 +1,17 @@
+C:\Users\imranm\source\repos\SimpleAsyncAwaitWPF\SimpleAsyncAwaitWPF\bin\Debug\SimpleAsyncAwaitWPF.exe.config
+C:\Users\imranm\source\repos\SimpleAsyncAwaitWPF\SimpleAsyncAwaitWPF\bin\Debug\SimpleAsyncAwaitWPF.exe
+C:\Users\imranm\source\repos\SimpleAsyncAwaitWPF\SimpleAsyncAwaitWPF\bin\Debug\SimpleAsyncAwaitWPF.pdb
+C:\Users\imranm\source\repos\SimpleAsyncAwaitWPF\SimpleAsyncAwaitWPF\obj\Debug\SimpleAsyncAwaitWPF.csprojAssemblyReference.cache
+C:\Users\imranm\source\repos\SimpleAsyncAwaitWPF\SimpleAsyncAwaitWPF\obj\Debug\MainWindow.g.cs
+C:\Users\imranm\source\repos\SimpleAsyncAwaitWPF\SimpleAsyncAwaitWPF\obj\Debug\Window2.g.cs
+C:\Users\imranm\source\repos\SimpleAsyncAwaitWPF\SimpleAsyncAwaitWPF\obj\Debug\App.g.cs
+C:\Users\imranm\source\repos\SimpleAsyncAwaitWPF\SimpleAsyncAwaitWPF\obj\Debug\SimpleAsyncAwaitWPF_MarkupCompile.cache
+C:\Users\imranm\source\repos\SimpleAsyncAwaitWPF\SimpleAsyncAwaitWPF\obj\Debug\SimpleAsyncAwaitWPF_MarkupCompile.lref
+C:\Users\imranm\source\repos\SimpleAsyncAwaitWPF\SimpleAsyncAwaitWPF\obj\Debug\MainWindow.baml
+C:\Users\imranm\source\repos\SimpleAsyncAwaitWPF\SimpleAsyncAwaitWPF\obj\Debug\Window2.baml
+C:\Users\imranm\source\repos\SimpleAsyncAwaitWPF\SimpleAsyncAwaitWPF\obj\Debug\SimpleAsyncAwaitWPF.g.resources
+C:\Users\imranm\source\repos\SimpleAsyncAwaitWPF\SimpleAsyncAwaitWPF\obj\Debug\SimpleAsyncAwaitWPF.Properties.Resources.resources
+C:\Users\imranm\source\repos\SimpleAsyncAwaitWPF\SimpleAsyncAwaitWPF\obj\Debug\SimpleAsyncAwaitWPF.csproj.GenerateResource.cache
+C:\Users\imranm\source\repos\SimpleAsyncAwaitWPF\SimpleAsyncAwaitWPF\obj\Debug\SimpleAsyncAwaitWPF.csproj.CoreCompileInputs.cache
+C:\Users\imranm\source\repos\SimpleAsyncAwaitWPF\SimpleAsyncAwaitWPF\obj\Debug\SimpleAsyncAwaitWPF.exe
+C:\Users\imranm\source\repos\SimpleAsyncAwaitWPF\SimpleAsyncAwaitWPF\obj\Debug\SimpleAsyncAwaitWPF.pdb
